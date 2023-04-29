@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moviespot/static/css/main.62a90d4c.css",
+    "main.js": "/moviespot/static/js/main.28edf6ab.js",
+    "index.html": "/moviespot/index.html",
+    "main.62a90d4c.css.map": "/moviespot/static/css/main.62a90d4c.css.map",
+    "main.28edf6ab.js.map": "/moviespot/static/js/main.28edf6ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62a90d4c.css",
+    "static/js/main.28edf6ab.js"
+  ]
+}
